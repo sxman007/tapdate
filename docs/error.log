@@ -1,0 +1,9 @@
+2014-06-05 10:19:40 Error: [NotFoundException] 404
+Request URL: /tawasal_app/
+Stack Trace:
+#0 [internal function]: ServicesController->error()
+#1 /home/unifiedw/public_html/tawasal_app/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ServicesController), Array)
+#2 /home/unifiedw/public_html/tawasal_app/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 /home/unifiedw/public_html/tawasal_app/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ServicesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/unifiedw/public_html/tawasal_app/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}

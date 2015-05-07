@@ -1,0 +1,6 @@
+category,name,phone,email,website,latitude,longitude,year,type_of_building,no_special_education_classrooms,stage,region,district,manager,social_network
+boys_school,Boys School 1,1212121212,test@test.com,http://www.test-site.com,,,,dummy data,القمة المتميزة,القمة المتميزة,القمة المتميزة,القمة المتميزة,dummy data,dummy data
+girls_school,Girls School 1,1212121212,test@test.com,http://www.test-site.com,,,,dummy data,dummy data,dummy data,dummy data,dummy data,dummy data,dummy data
+pre_school,القمة المتميزة,1212121212,test@test.com,http://www.test-site.com,,,,dummy data,dummy data,dummy data,dummy data,dummy data,dummy data,dummy data
+institute,Institute 1,1212121212,test@test.com,http://www.test-site.com,,,,القمة المتميزة,dummy data,dummy data,dummy data,dummy data,dummy data,dummy data
+office,Office 1,1212121212,test@test.com,http://www.test-site.com,,,,dummy data,dummy data,dummy data,dummy data,dummy data,dummy data,dummy data

@@ -1,0 +1,13 @@
+unifiedwebdevelopment.com/tawasal_app
+
+FTP
+host: ftp.unifiedwebdevelopment.com
+usr: tawasal_app@unifiedwebdevelopment.com
+pass: this8is34cool1
+folder: /home/unifiedw/public_html/tawasal_app
+
+DB
+host: localhost
+db name: unifiedw_tawasal_app
+db user: unifiedw_tawasal
+pass: this8is34cool1

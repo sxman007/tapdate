@@ -1,0 +1,236 @@
+2014-05-08 11:33:03 Notice: Notice (8): Undefined variable: type in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/View/Users/admin_edit.ctp, line 2]
+Trace:
+include - APP/View/Users/admin_edit.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 935
+View::_render() - CORE/Cake/View/View.php, line 897
+View::render() - CORE/Cake/View/View.php, line 466
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-08 11:33:20 Notice: Notice (8): Undefined variable: type in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/View/Users/admin_edit.ctp, line 2]
+Trace:
+include - APP/View/Users/admin_edit.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 935
+View::_render() - CORE/Cake/View/View.php, line 897
+View::render() - CORE/Cake/View/View.php, line 466
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-08 11:35:46 Notice: Notice (8): Undefined index: CommunityPost in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 69]
+Trace:
+ServicesController::admin_index() - APP/Controller/ServicesController.php, line 69
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-08 11:35:48 Notice: Notice (8): Undefined index: CommunityPost in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 69]
+Trace:
+ServicesController::admin_index() - APP/Controller/ServicesController.php, line 69
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-08 13:08:37 Notice: Notice (8): Undefined variable: email in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/UsersController.php, line 62]
+Trace:
+UsersController::login() - APP/Controller/UsersController.php, line 62
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-08 13:08:37 Notice: Notice (8): Undefined variable: password in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/UsersController.php, line 63]
+Trace:
+UsersController::login() - APP/Controller/UsersController.php, line 63
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-08 13:08:37 Notice: Notice (8): Undefined index: User in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/UsersController.php, line 71]
+Trace:
+UsersController::login() - APP/Controller/UsersController.php, line 71
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-08 13:09:54 Notice: Notice (8): Undefined variable: email in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/UsersController.php, line 62]
+Trace:
+UsersController::login() - APP/Controller/UsersController.php, line 62
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-08 13:09:54 Notice: Notice (8): Undefined variable: password in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/UsersController.php, line 63]
+Trace:
+UsersController::login() - APP/Controller/UsersController.php, line 63
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-08 13:09:54 Notice: Notice (8): Undefined variable: out in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/lib/Cake/basics.php, line 153]
+Trace:
+sortByKey - CORE/Cake/basics.php, line 153
+DboSource::getLog() - CORE/Cake/Model/Datasource/DboSource.php, line 876
+UsersController::login() - APP/Controller/UsersController.php, line 66
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-19 11:03:26 Notice: Notice (8): Undefined index: id in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 329]
+Trace:
+ServicesController::delete() - APP/Controller/ServicesController.php, line 329
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-19 11:06:19 Notice: Notice (8): Undefined index: id in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 329]
+Trace:
+ServicesController::delete() - APP/Controller/ServicesController.php, line 329
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-19 11:06:20 Notice: Notice (8): Undefined index: id in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 329]
+Trace:
+ServicesController::delete() - APP/Controller/ServicesController.php, line 329
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-19 12:00:13 Notice: Notice (8): Undefined variable: out in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/lib/Cake/basics.php, line 153]
+Trace:
+sortByKey - CORE/Cake/basics.php, line 153
+DboSource::getLog() - CORE/Cake/Model/Datasource/DboSource.php, line 876
+ServicesController::add() - APP/Controller/ServicesController.php, line 238
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-20 10:22:45 Notice: Notice (8): Undefined variable: type in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/View/Users/admin_edit.ctp, line 2]
+Trace:
+include - APP/View/Users/admin_edit.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 935
+View::_render() - CORE/Cake/View/View.php, line 897
+View::render() - CORE/Cake/View/View.php, line 466
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-23 07:25:51 Notice: Notice (8): Undefined variable: uploadPath in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/AppController.php, line 193]
+Trace:
+AppController::uploadFile() - APP/Controller/AppController.php, line 193
+ServicesController::admin_import() - APP/Controller/ServicesController.php, line 168
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-23 07:40:15 Notice: Notice (8): Undefined variable: file in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 168]
+Trace:
+ServicesController::admin_import() - APP/Controller/ServicesController.php, line 168
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-28 10:22:38 Notice: Notice (8): Undefined index: Service in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 304]
+Trace:
+ServicesController::details() - APP/Controller/ServicesController.php, line 304
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-28 10:23:34 Notice: Notice (8): Undefined index: Service in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 304]
+Trace:
+ServicesController::details() - APP/Controller/ServicesController.php, line 304
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-28 11:26:24 Notice: Notice (8): Undefined index: Service in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 304]
+Trace:
+ServicesController::details() - APP/Controller/ServicesController.php, line 304
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-28 11:27:21 Notice: Notice (8): Undefined index: Service in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 304]
+Trace:
+ServicesController::details() - APP/Controller/ServicesController.php, line 304
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-29 09:54:33 Notice: Notice (8): Undefined index: Service in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 304]
+Trace:
+ServicesController::details() - APP/Controller/ServicesController.php, line 304
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-29 09:54:38 Notice: Notice (8): Undefined index: Service in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 304]
+Trace:
+ServicesController::details() - APP/Controller/ServicesController.php, line 304
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-29 09:54:54 Notice: Notice (8): Undefined index: Service in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 304]
+Trace:
+ServicesController::details() - APP/Controller/ServicesController.php, line 304
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-05-29 09:56:22 Notice: Notice (8): Undefined index: Service in [/home/phppowerhouse/public_html/webroot/team5/tawasal_app/app/Controller/ServicesController.php, line 304]
+Trace:
+ServicesController::details() - APP/Controller/ServicesController.php, line 304
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
